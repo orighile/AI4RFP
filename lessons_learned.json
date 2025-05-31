@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lesson_0001",
+    "rfp_id": "RFP-PHASE3-RAG-001",
+    "title": "Post-Generation Sanity Check",
+    "description": "Ensured all key components (summary, costing) were generated.",
+    "impact": "Positive - Process Verification",
+    "recommendation": "Continue automated checks for completeness.",
+    "keywords": [
+      "process",
+      "validation"
+    ],
+    "related_section": "Overall Process",
+    "outcome_if_applied": null,
+    "timestamp": "2025-05-15T10:40:26.241359"
+  },
+  {
+    "id": "lesson_0002",
+    "rfp_id": "AGENT-RUN-7578cc07",
+    "title": "Post-Generation Sanity Check",
+    "description": "Ensured all key components (summary, costing) were generated.",
+    "impact": "Positive - Process Verification",
+    "recommendation": "Continue automated checks for completeness.",
+    "keywords": [
+      "process",
+      "validation"
+    ],
+    "related_section": "Overall Process",
+    "outcome_if_applied": null,
+    "timestamp": "2025-05-15T23:15:59.726442"
+  },
+  {
+    "id": "lesson_0003",
+    "rfp_id": "AGENT-RUN-56d5514c",
+    "title": "Post-Generation Sanity Check",
+    "description": "Ensured all key components (summary, costing) were generated.",
+    "impact": "Positive - Process Verification",
+    "recommendation": "Continue automated checks for completeness.",
+    "keywords": [
+      "process",
+      "validation"
+    ],
+    "related_section": "Overall Process",
+    "outcome_if_applied": null,
+    "timestamp": "2025-05-15T23:26:11.469379"
+  }
+]

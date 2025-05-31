@@ -1,0 +1,26 @@
+[
+  {
+    "id": "insight_1",
+    "rfp_id": "RFP-001",
+    "type": "Key Requirement",
+    "content": "Solution must be cloud-native.",
+    "keywords": [
+      "cloud",
+      "aws"
+    ],
+    "outcome": "Won",
+    "timestamp": "2025-05-15T01:32:12.048624"
+  },
+  {
+    "id": "insight_2",
+    "rfp_id": "RFP-002",
+    "type": "Agency Priority",
+    "content": "Emphasis on user experience (UX).",
+    "keywords": [
+      "ux",
+      "design"
+    ],
+    "outcome": "Submitted",
+    "timestamp": "2025-05-15T01:32:12.048796"
+  }
+]

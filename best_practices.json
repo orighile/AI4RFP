@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bp_1",
+    "title": "Effective Executive Summaries",
+    "description": "Start with client's main problem and your core solution.",
+    "category": "Content Strategy",
+    "keywords": [
+      "summary",
+      "writing"
+    ],
+    "timestamp": "2025-05-15T01:32:12.049094"
+  },
+  {
+    "id": "bp_2",
+    "title": "Cloud Cost Optimization",
+    "description": "Leverage reserved instances for predictable workloads.",
+    "category": "Pricing",
+    "keywords": [
+      "cloud",
+      "aws",
+      "azure",
+      "cost"
+    ],
+    "timestamp": "2025-05-15T01:32:12.049203"
+  }
+]
